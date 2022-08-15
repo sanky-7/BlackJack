@@ -1,6 +1,6 @@
 let player = {
-    name: "Julius Kitten",
-    chips: 690
+    name: "Player",
+    chips: 0
 }
 let cards = []
 let sum = 0
